@@ -1,0 +1,4 @@
+[1/50]: Loss=0.62369, Accuracy=0.79890, time:12.25s, total time:12.28s
+[2/50]: Loss=0.09878, Accuracy=0.96963, time:12.27s, total time:24.55s
+[3/50]: Loss=0.06850, Accuracy=0.97852, time:12.09s, total time:36.63s
+[4/50]: Loss=0.05294, Accuracy=0.98343, time:12.09s, total time:48.72s
